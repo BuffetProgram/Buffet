@@ -2,7 +2,6 @@ opencv_python
 opencv_contrib_python
 python_bidi
 pillow
-python_pillow
 arabic_reshaper
 pygame
 kivymd
